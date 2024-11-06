@@ -1,4 +1,4 @@
-FROM python:3.5
+FROM python:3.9
 MAINTAINER Benjamin Hutchins <ben@hutchins.co>
 
 ENV DEBIAN_FRONTEND noninteractive
